@@ -7,3 +7,5 @@
 适合初中级前端工程师在面试之前进行知识回顾。
 
 暂时放在 gitbook 上，持续更新中...
+
+地址：https://www.gitbook.com/book/jetwll/note-fe/details
